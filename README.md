@@ -1,2 +1,3 @@
 # sort-stars-repository
-Sort repositories you starred
+
+Use this tool to sort your starred repositories on Github.
